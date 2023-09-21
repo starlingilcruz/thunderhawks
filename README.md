@@ -1,4 +1,4 @@
-# thunderhawks
+# Thunderhawks
 
 ```text
 Rapid Enterprise Development Toolkit
